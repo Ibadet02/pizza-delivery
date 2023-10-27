@@ -2,6 +2,9 @@
 
 Pizza Delivery: An enjoyable digital journey. I created and built an e-commerce website for a pizza restaurant, offering a dynamic menu with a range of choices such as pizza, sushi, and pasta. The primary objective of this project was to streamline the online ordering process and deliver a smooth and user-friendly experience.
 
+## Live Demo
+<a href='https://653c3c21de07b0007dbdf5eb--famous-madeleine-191f8e.netlify.app/'>Pizza Delivery</a>
+
 ## Contents
 
 - [Getting Started with Create React App](#gettingStarted)
